@@ -6,7 +6,6 @@
     "-search",
     "search-pro",
     "-sharing",
-    "disqus",
     "github-buttons",
     "editlink",
     "ga",
@@ -28,9 +27,6 @@
     },
     "anchor-navigation-ex": {
       "showLevel": false
-    },
-    "disqus": {
-      "shortName": "gitbook-template"
     },
     "github-buttons": {
       "buttons": [
