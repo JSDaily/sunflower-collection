@@ -6,7 +6,7 @@
     "-search",
     "search-pro",
     "-sharing",
-    "github-buttons",
+    "disqus",
     "editlink",
     "ga",
     "-highlight",
@@ -28,16 +28,8 @@
     "anchor-navigation-ex": {
       "showLevel": false
     },
-    "github-buttons": {
-      "buttons": [
-        {
-          "user": "riskers",
-          "repo": "gitbook-template",
-          "type": "star",
-          "size": "small",
-          "count": false
-        }
-      ]
+    "disqus": {
+      "shortName": "gitbook-template"
     },
     "editlink": {
       "base": "https://github.com/JSDaily/sunflower-collection/blob/master",
