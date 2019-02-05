@@ -1,2 +1,1 @@
-# sunflower-collection
-葵花宝典
+init
