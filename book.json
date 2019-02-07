@@ -7,6 +7,7 @@
     "search-pro",
     "-sharing",
     "disqus",
+    "github-buttons",
     "editlink",
     "ga",
     "-highlight",
@@ -29,7 +30,18 @@
       "showLevel": false
     },
     "disqus": {
-      "shortName": "gitbook-template"
+      "shortName": "sunflower-collection"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "user": "余树",
+          "repo": "sunflower-collection",
+          "type": "star",
+          "size": "small",
+          "count": true
+        }
+      ]
     },
     "editlink": {
       "base": "https://github.com/JSDaily/sunflower-collection/blob/master",
@@ -37,7 +49,7 @@
       "multilingual": false
     },
     "ga": {
-      "token": "UA-131910384-3"
+      "token": "UA-134044166-1"
     },
     "prism": {
       "ignore": ["mermaid", "eval-js"],
