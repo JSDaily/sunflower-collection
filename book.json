@@ -30,12 +30,12 @@
       "showLevel": false
     },
     "disqus": {
-      "shortName": "sunflower-collection"
+      "shortName": ""
     },
     "github-buttons": {
       "buttons": [
         {
-          "user": "余树",
+          "user": "JSDaily",
           "repo": "sunflower-collection",
           "type": "star",
           "size": "small",
