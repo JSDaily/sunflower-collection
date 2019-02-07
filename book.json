@@ -35,7 +35,7 @@
     "github-buttons": {
       "buttons": [
         {
-          "user": "JSDaily",
+          "user": "lizhoukai",
           "repo": "sunflower-collection",
           "type": "star",
           "size": "small",
@@ -44,7 +44,7 @@
       ]
     },
     "editlink": {
-      "base": "https://github.com/JSDaily/sunflower-collection/blob/master",
+      "base": "https://github.com/lizhoukai/sunflower-collection/blob/master",
       "label": "Edit",
       "multilingual": false
     },
