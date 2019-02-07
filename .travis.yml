@@ -31,4 +31,4 @@ branches:
 
 env:
   global:
-    - REF=github.com/JSDaily/sunflower-collection.git # 设置 github 地址
+    - REF=github.com/lizhoukai/sunflower-collection.git # 设置 github 地址
