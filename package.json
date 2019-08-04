@@ -1,0 +1,14 @@
+{
+  "name": "sunflower-collection",
+  "version": "0.0.1",
+  "description": "doc",
+  "main": "app.js",
+  "scripts": {
+    "start": "docsify serve ./doc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "余树",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
