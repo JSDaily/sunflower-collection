@@ -4,7 +4,7 @@
   "description": "doc",
   "main": "app.js",
   "scripts": {
-    "start": "docsify serve ./doc",
+    "start": "docsify serve ./doc -p 8887",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "余树",
