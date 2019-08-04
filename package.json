@@ -10,5 +10,7 @@
   "author": "余树",
   "license": "MIT",
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "github-webhook-handler": "^0.7.1"
+  }
 }
