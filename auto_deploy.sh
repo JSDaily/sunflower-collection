@@ -15,6 +15,5 @@ git pull && git checkout master
 
 # 分配用户组权限
 chown -R $USER:$USERGROUP $SITE_PATH
-# 重启服务进程
-pm2 restart 6
+
 echo "Finished ..."
